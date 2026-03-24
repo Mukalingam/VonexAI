@@ -204,7 +204,7 @@ export default function ProfilePage() {
 
       // Sign out and redirect - actual deletion would need a server action
       await supabase.auth.signOut();
-      toast.success("You have been signed out. Contact reachus@iicl.in to permanently delete your account.");
+      toast.success("You have been signed out. Contact muka.u@iicl.in to permanently delete your account.");
       router.push("/signin");
     } catch {
       toast.error("Failed to process account deletion");

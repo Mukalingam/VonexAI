@@ -2,7 +2,7 @@
 
 An AI-powered voice agent platform that enables businesses to create, deploy, and manage intelligent voice agents for phone calls and web interactions. Built with Next.js, Supabase, ElevenLabs, and Claude AI.
 
-**Built & Powered by IICL**
+**Built by Muka Lingam**
 
 ---
 
@@ -354,4 +354,4 @@ docs/
 
 ## License
 
-Proprietary — IICL. All rights reserved.
+Proprietary — Muka Lingam. All rights reserved.

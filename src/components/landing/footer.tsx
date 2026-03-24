@@ -10,7 +10,7 @@ const footerLinks = {
     { label: "Documentation", href: "/docs" },
   ],
   Company: [
-    { label: "About", href: "https://iicl.in" },
+    { label: "About", href: "https://www.linkedin.com/in/muka-lingam-278526113/" },
     { label: "Contact", href: "/contact" },
   ],
   Legal: [
@@ -66,7 +66,7 @@ export function Footer() {
 
           {/* Copyright */}
           <p className="text-sm text-[#94A3B8]">
-            &copy; {new Date().getFullYear()} Vonex AI by IICL. All rights reserved.
+            &copy; {new Date().getFullYear()} Vonex AI by Muka Lingam. All rights reserved.
           </p>
         </div>
       </div>

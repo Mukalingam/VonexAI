@@ -69,10 +69,10 @@ export default function PrivacyPage() {
                 data at any time through your account settings. You may also
                 request a copy of all data we hold about you by contacting us at{" "}
                 <a
-                  href="mailto:reachus@iicl.in"
+                  href="mailto:muka.u@iicl.in"
                   className="text-[#2E3192] hover:underline"
                 >
-                  reachus@iicl.in
+                  muka.u@iicl.in
                 </a>
                 .
               </p>
@@ -83,13 +83,12 @@ export default function PrivacyPage() {
                 6. Contact Us
               </h2>
               <p className="mt-2">
-                For privacy-related inquiries, contact Intelligence India.Com
-                Limited (IICL) at{" "}
+                For privacy-related inquiries, contact Muka Lingam at{" "}
                 <a
-                  href="mailto:reachus@iicl.in"
+                  href="mailto:muka.u@iicl.in"
                   className="text-[#2E3192] hover:underline"
                 >
-                  reachus@iicl.in
+                  muka.u@iicl.in
                 </a>{" "}
                 or call{" "}
                 <a

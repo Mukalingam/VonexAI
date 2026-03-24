@@ -91,10 +91,10 @@ export default function ContactPage() {
               </CardHeader>
               <CardContent>
                 <a
-                  href="mailto:reachus@iicl.in"
+                  href="mailto:muka.u@iicl.in"
                   className="text-lg font-semibold text-[#2E3192] hover:underline"
                 >
-                  reachus@iicl.in
+                  muka.u@iicl.in
                 </a>
               </CardContent>
             </Card>
@@ -144,12 +144,11 @@ export default function ContactPage() {
           {/* Company Info */}
           <div className="mt-16 rounded-2xl border bg-muted/30 p-8 text-center">
             <h3 className="text-lg font-semibold text-foreground">
-              Intelligence India.Com Limited (IICL)
+              Muka Lingam
             </h3>
             <p className="mt-2 text-sm text-muted-foreground leading-relaxed">
-              Vonex AI is a product developed by IICL &mdash; a technology
-              company specializing in AI-powered solutions for businesses
-              worldwide.
+              Vonex AI is developed by Muka Lingam &mdash; specializing in
+              AI-powered voice automation solutions for businesses worldwide.
             </p>
             <div className="mt-4 flex items-center justify-center gap-2 text-sm text-muted-foreground">
               <Clock className="h-4 w-4" />

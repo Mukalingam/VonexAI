@@ -22,8 +22,7 @@ export default function TermsPage() {
               <p className="mt-2">
                 By accessing or using Vonex AI, you agree to be bound by these
                 Terms of Service. If you do not agree, please do not use the
-                platform. Vonex AI is operated by Intelligence India.Com Limited
-                (IICL).
+                platform. Vonex AI is operated by Muka Lingam.
               </p>
             </section>
 
@@ -80,7 +79,7 @@ export default function TermsPage() {
               </h2>
               <p className="mt-2">
                 You retain ownership of the content and configurations you
-                create using Vonex AI. IICL retains all rights to the Vonex AI
+                create using Vonex AI. Muka Lingam retains all rights to the Vonex AI
                 platform, its technology, and branding. You may not reverse
                 engineer or redistribute any part of the platform.
               </p>
@@ -92,7 +91,7 @@ export default function TermsPage() {
               </h2>
               <p className="mt-2">
                 Vonex AI is provided &quot;as is&quot; without warranties of any
-                kind. IICL shall not be liable for any indirect, incidental, or
+                kind. Muka Lingam shall not be liable for any indirect, incidental, or
                 consequential damages arising from the use of the platform. Our
                 total liability shall not exceed the amount paid by you in the
                 12 months preceding the claim.
@@ -106,10 +105,10 @@ export default function TermsPage() {
               <p className="mt-2">
                 For questions about these terms, contact us at{" "}
                 <a
-                  href="mailto:reachus@iicl.in"
+                  href="mailto:muka.u@iicl.in"
                   className="text-[#2E3192] hover:underline"
                 >
-                  reachus@iicl.in
+                  muka.u@iicl.in
                 </a>
                 .
               </p>
