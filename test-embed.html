@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>VoxaHub Embed Test</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #f8fafc; color: #1e293b; }
+    header { background: white; border-bottom: 1px solid #e2e8f0; padding: 16px 32px; }
+    header h1 { font-size: 20px; font-weight: 700; }
+    header p { font-size: 14px; color: #64748b; margin-top: 4px; }
+    .hero { max-width: 800px; margin: 60px auto; padding: 0 32px; text-align: center; }
+    .hero h2 { font-size: 36px; font-weight: 800; line-height: 1.2; }
+    .hero h2 span { color: #0D9488; }
+    .hero p { font-size: 18px; color: #64748b; margin-top: 16px; line-height: 1.6; }
+    .cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 24px; max-width: 800px; margin: 48px auto; padding: 0 32px; }
+    .card { background: white; border: 1px solid #e2e8f0; border-radius: 12px; padding: 24px; }
+    .card h3 { font-size: 16px; font-weight: 600; margin-bottom: 8px; }
+    .card p { font-size: 14px; color: #64748b; line-height: 1.5; }
+    .note { text-align: center; margin: 40px auto; padding: 20px 32px; max-width: 600px; background: #f0fdfa; border: 1px solid #99f6e4; border-radius: 12px; }
+    .note p { font-size: 14px; color: #115e59; }
+    .note strong { color: #0D9488; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>My Business Website</h1>
+    <p>This is a sample website to test the VoxaHub embed widget</p>
+  </header>
+
+  <div class="hero">
+    <h2>Welcome to <span>Our Store</span></h2>
+    <p>Browse our products and services. Need help? Click the green chat button in the bottom-right corner to talk to our AI assistant!</p>
+  </div>
+
+  <div class="cards">
+    <div class="card">
+      <h3>Product A</h3>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt.</p>
+    </div>
+    <div class="card">
+      <h3>Product B</h3>
+      <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.</p>
+    </div>
+    <div class="card">
+      <h3>Product C</h3>
+      <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat.</p>
+    </div>
+  </div>
+
+  <div class="note">
+    <p><strong>VoxaHub Embed Test:</strong> The floating green chat button should appear in the bottom-right corner. Click it to open the chat widget.</p>
+  </div>
+
+  <!-- VoxaHub Embed Widget -->
+  <script src="https://voxahub.icognito.ai/embed.js" data-agent-id="20436f23-5aca-4066-a17e-2d456f325a5f"></script>
+</body>
+</html>
